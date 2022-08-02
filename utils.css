@@ -1,0 +1,60 @@
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+
+    justify-content: center;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+
+
+.mr-top {
+    margin: 10px 0px;
+}
+
+.br {
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+}
+
+.btn {
+    padding: 7px 15px;
+    border-radius: 7px;
+    background-color: darkred;
+    color: lightseagreen;
+    cursor: pointer;
+}
+
+.bold {
+    font-weight: bold;
+}

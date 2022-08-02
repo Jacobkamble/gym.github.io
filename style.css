@@ -1,0 +1,71 @@
+/* css reset  */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80vw;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0px 10px;
+}
+
+.section1 {
+    height: 500px;
+}
+
+.topleft {
+    width: 50%;
+    height: 500px;
+}
+
+.topright {
+    width: 50%;
+    height: 500px;
+}
+
+.gymimg {
+    width: 300px;
+    height: 500px;
+
+}
+
+.dumbellimg {
+    width: 250px;
+    /* height: 300px; */
+}
+
+.section2 ul {
+    width: 150px;
+}
+
+.section2 p {
+    padding: 10px 50px;
+}
+
+.section2 h1 {
+    font-size: 2.1rem;
+}
+
+.section2 h2 {
+    font-size: 1.8rem;
+}
+
+
+.box {
+    margin: 20px 50px;
+    padding: 0px 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 23vw;
+    height: 185px;
+}
+
+.section2 ul li {
+
+    list-style: none;
+    padding: 2px 2px;
+}
